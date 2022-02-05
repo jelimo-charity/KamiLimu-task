@@ -1,0 +1,14 @@
+What is git?
+Git is  a free, open-source software distributed version control system (DVCS) designed to manage all source code history.
+It can keep a history of commits, can reverse changes, and lets developers share code. 
+Each developer must have Git installed on his or her local device to collaborate.
+Git is installed locally on a system, so developers can manage their source code history using their local machines as repositories. This means there is no centralized server required to use Git, and no needed internet access either.
+Additionally, there’s no user-management system available and a proprietary desktop GUI.
+
+
+What is github?
+Github is is a web-based hosting service for Git repositories.
+With GitHub, developers can share their repositories, access other developers’ repositories, and store remote copies of repositories to serve as backups.
+lives in the cloud, so Internet access is required. It also has a built-in user-management system and a user-friendly GUI. 
+In addition to its main website, GitHub features a desktop version that can be installed on local computers to help synchronize code.
+It should be noted that Git can be used without GitHub, but GitHub cannot be used without Git.
