@@ -12,3 +12,41 @@ With GitHub, developers can share their repositories, access other developers’
 lives in the cloud, so Internet access is required. It also has a built-in user-management system and a user-friendly GUI. 
 In addition to its main website, GitHub features a desktop version that can be installed on local computers to help synchronize code.
 It should be noted that Git can be used without GitHub, but GitHub cannot be used without Git.
+
+
+AI AGENTS 
+An agent is anything that can perceive its environment through sensors and acts upon that environment through effectors.
+A human agent has sensory organs such as eyes, ears, nose, tongue and skin parallel to the sensors, and other organs such as hands, legs, mouth, for effectors.
+
+A robotic agent replaces cameras and infrared range finders for the sensors, and various motors and actuators for effectors.
+
+A software agent has encoded bit strings as its programs and actions.
+
+Agent Terminology
+Performance Measure of Agent − It is the criteria, which determines how successful an agent is.
+
+Behavior of Agent − It is the action that agent performs after any given sequence of percepts.
+
+Percept − It is agent’s perceptual inputs at a given instance.
+
+Percept Sequence − It is the history of all that an agent has perceived till date.
+
+Agent Function − It is a map from the precept sequence to an action.
+
+What is Ideal Rational Agent?
+An ideal rational agent is the one, which is capable of doing expected actions to maximize its performance measure, on the basis of −
+
+Its percept sequence
+Its built-in knowledge base
+Rationality of an agent depends on the following −
+
+The performance measures, which determine the degree of success.
+
+Agent’s Percept Sequence till now.
+
+The agent’s prior knowledge about the environment.
+
+The actions that the agent can carry out.
+
+A rational agent always performs right action, where the right action means the action that causes the agent to be most successful in the given percept sequence. 
+The problem the agent solves is characterized by Performance Measure, Environment, Actuators, and Sensors (PEAS).
